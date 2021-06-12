@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_order"
+        android:enabled="true"
+
+        android:icon="@drawable/ordericon"
+        android:title="Order"/>
+    <item
+        android:id="@+id/navigation_history"
+        android:enabled="true"
+        android:icon="@drawable/historyicon"
+        android:title="History"/>
+    <item
+        android:id="@+id/navigation_donate"
+        android:enabled="true"
+        android:fontFamily="@font/poppins_medium"
+        android:icon="@drawable/donateicon"
+        android:title="Donate" />
+
+</menu>
